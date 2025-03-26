@@ -1,4 +1,4 @@
-package br.ucb.loja.entidades;
+package main.java.br.ucb.entidade;
 
 public class Produto {
     private String nome;
